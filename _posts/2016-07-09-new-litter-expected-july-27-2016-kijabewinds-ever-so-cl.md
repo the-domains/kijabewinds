@@ -2,12 +2,12 @@
 description: >-
   NEW LITTER EXPECTED – JULY 27, 2016 – KIJABEWINDS EVER SO CLEVER X
   REDFOXWATERFOX SPRING2 THE MAX (Maia and Jester)
-dateModified: '2016-07-09T15:40:42.454Z'
-datePublished: '2016-07-09T15:41:02.748Z'
+dateModified: '2016-07-09T15:41:29.904Z'
+datePublished: '2016-07-09T16:05:58.795Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-09-new-litter-expected-july-27-2016-kijabewinds-ever-so-cl.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
