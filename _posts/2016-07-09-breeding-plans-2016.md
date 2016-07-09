@@ -2,8 +2,8 @@
 description: >-
   We are currently (July 2016) waiting on Maia to whelp her litter at the end of
   July. The sire to this litter is RedFoxWaterFox Spring2 the Max (Jester)
-dateModified: '2016-07-09T16:00:08.072Z'
-datePublished: '2016-07-09T16:09:34.283Z'
+dateModified: '2016-07-09T16:09:44.939Z'
+datePublished: '2016-07-09T16:10:52.420Z'
 title: Breeding Plans 2016
 author: []
 isBasedOnUrl: >-
