@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-09T15:51:09.909Z'
-datePublished: '2016-07-09T15:51:15.335Z'
+dateModified: '2016-07-09T15:59:27.232Z'
+datePublished: '2016-07-09T16:08:43.918Z'
 title: CH KijabeWinds Take them by Storm – STORM - Retired from breeding 2015
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0af97d7-6b15-4a4f-a1e0-7d2f9d378bc4.jpg
-starred: false
 sourcePath: _posts/2016-07-09-ch-kijabewinds-take-them-by-storm-storm-retired-from-bre.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
