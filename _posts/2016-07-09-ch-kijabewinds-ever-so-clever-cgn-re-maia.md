@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-09T15:56:26.244Z'
-datePublished: '2016-07-09T15:56:28.394Z'
+dateModified: '2016-07-09T15:59:38.584Z'
+datePublished: '2016-07-09T16:09:11.051Z'
 title: CH KijabeWinds Ever So Clever CGN RE - MAIA
 author: []
 isBasedOnUrl: >-
