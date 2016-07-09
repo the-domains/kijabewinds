@@ -1,7 +1,9 @@
 ---
-description: ''
-dateModified: '2016-07-09T15:59:27.232Z'
-datePublished: '2016-07-09T16:08:43.918Z'
+description: >-
+  Date of Birth: July 13, 2007 Sire: Anando Off Center Toller Dam: Westerlea’s
+  Alderlane April Owner: Sharon Janzen
+dateModified: '2016-07-09T16:37:10.920Z'
+datePublished: '2016-07-09T16:38:13.435Z'
 title: CH KijabeWinds Take them by Storm – STORM - Retired from breeding 2015
 author: []
 isBasedOnUrl: >-
@@ -31,3 +33,5 @@ Whelped four litters -- March 2010; May 2011; August 2013;July 2015
 **Health Clearances: Hip**: OFA DTR-1288G25F-VPI **Thyroid**: Normal Normal **CERF: **NSD-1203/2009-26 **PRA: **Carrier **CEA:** Clear **CP1: Clear**
 
 **Storm** is first and foremost our family pet. She has been trained in the field as a hunting retriever. Her gentle disposition makes her a favorite at the Senior's Home where she has visited for 7 years as a St. John Ambulance Therapy Dog. She proved to be an excellent brood bitch. From her first litter in 2010 we co-own **Ch KijabeWinds Take'em Sam WCI, CGN** and **Ella O'KijabeWinds** (Now retired after two litters) Sam has also proven to be an excellent hunting dog starting at the young age of 6 months. From her 2013 litter we co-own **KijabeWinds Ever so Clever. **From her 2015 litter we co-own**Kijabewinds Playing the River- Poker **and **KijabeWinds Dealer's Choice -- Charlee**
+
+.
