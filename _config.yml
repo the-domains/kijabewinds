@@ -1,11 +1,11 @@
-layout_spectrum: 0.38994826935231686
-typography_spectrum: 0.6014593746513128
+layout_spectrum: 0.22631653398275375
+typography_spectrum: 0.5478415584657341
 style: the-composer
 color:
-  brandStrength: 0.677516091382131
-  lightness: 0.6154161307495087
-  saturation: 0.8884474411606789
-  rhythmicContrast: 0.7964648760389537
+  brandStrength: 0.009514282690361142
+  lightness: 0.48477329942397773
+  saturation: 0.4368788944557309
+  rhythmicContrast: 0.9786118608899415
   brandColors:
     - '#36362C'
     - '#5D917D'
