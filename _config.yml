@@ -1,0 +1,14 @@
+layout_spectrum: 0.8761846744455397
+typography_spectrum: 0.6956018933560699
+color:
+  brandStrength: 0.677516091382131
+  lightness: 0.6154161307495087
+  saturation: 0.8884474411606789
+  rhythmicContrast: 0.7964648760389537
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: kijabewinds
