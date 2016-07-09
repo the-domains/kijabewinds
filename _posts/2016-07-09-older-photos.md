@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-09T16:23:32.691Z'
-datePublished: '2016-07-09T16:23:33.430Z'
+dateModified: '2016-07-09T16:23:39.021Z'
+datePublished: '2016-07-09T16:30:08.463Z'
 title: Older photos
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1efe8ec8-f07a-410e-bb15-13afac908cd0.jpg
-starred: false
 sourcePath: _posts/2016-07-09-older-photos.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
