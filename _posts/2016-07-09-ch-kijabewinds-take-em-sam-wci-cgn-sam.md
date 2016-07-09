@@ -2,8 +2,8 @@
 description: >-
   Date of Birth: March 24, 2010 Sire: Seastar’s Westerlea Terifox Dam:
   KijabeWinds Take them by Storm Owners: Rick and Judy Janzen, Sharon Janzen
-dateModified: '2016-07-09T16:19:44.985Z'
-datePublished: '2016-07-09T16:29:43.135Z'
+dateModified: '2016-07-09T16:44:33.637Z'
+datePublished: '2016-07-09T16:48:29.488Z'
 title: CH KijabeWinds Take-em Sam WCI CGN – SAM
 author: []
 isBasedOnUrl: >-
@@ -25,7 +25,9 @@ _type: MediaObject
 **Dam:** KijabeWinds Take them by Storm  
 **Owners:** Rick and Judy Janzen, Sharon Janzen
 
-**Health Clearances:** As in accordance with to the Nova Scotia Duck Tolling Retriever code of Ethics.
+### **Health Clearances:**
+
+As in accordance with to the Nova Scotia Duck Tolling Retriever code of Ethics.
 
 **OPTIGEN -- PRA: **CLEAR **CEA/CH: **Normal
 
