@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-09T15:52:40.708Z'
-datePublished: '2016-07-09T15:52:46.852Z'
+dateModified: '2016-07-09T15:59:15.928Z'
+datePublished: '2016-07-09T16:11:25.151Z'
 title: CH KijabeWinds Take-em Sam WCI CGN – SAM
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e10bba-40a7-463b-bdea-752460ebc2cd.jpg
-starred: false
 sourcePath: _posts/2016-07-09-ch-kijabewinds-take-em-sam-wci-cgn-sam.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
