@@ -1,11 +1,11 @@
 ---
 description: Check out our Facebook page
-dateModified: '2016-07-09T16:27:30.841Z'
-datePublished: '2016-07-09T16:28:46.749Z'
+dateModified: '2016-07-09T16:28:48.284Z'
+datePublished: '2016-07-09T16:28:48.599Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-09-check-out-our-facebook-page.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
