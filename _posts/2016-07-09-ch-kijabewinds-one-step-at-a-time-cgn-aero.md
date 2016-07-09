@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-09T15:49:48.537Z'
-datePublished: '2016-07-09T15:50:09.349Z'
+dateModified: '2016-07-09T15:58:33.573Z'
+datePublished: '2016-07-09T16:05:34.070Z'
 title: CH KijabeWinds One Step at a Time CGN – AERO
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d69b64-ce8a-4d1c-818f-08da7dc2771b.jpg
-starred: false
 sourcePath: _posts/2016-07-09-ch-kijabewinds-one-step-at-a-time-cgn-aero.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
