@@ -1,28 +1,30 @@
 ---
-description: 'Date of BIRTH: August 27, 2013'
-dateModified: '2016-07-09T15:47:58.321Z'
-datePublished: '2016-07-09T15:48:22.086Z'
+description: ''
+dateModified: '2016-07-09T15:56:26.244Z'
+datePublished: '2016-07-09T15:56:28.394Z'
 title: CH KijabeWinds Ever So Clever CGN RE - MAIA
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9153af3c-5560-4d07-a872-de6587a7f93a.jpg
-starred: false
 sourcePath: _posts/2016-07-09-ch-kijabewinds-ever-so-clever-cgn-re-maia.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec609835-3b34-42da-90b3-90e1e5e4f115.jpg)
+
 # **CH KijabeWinds Ever So Clever CGN RE - MAIA**
 
-**Date of BIRTH:****August 27, 2013**
+**Date of BIRTH: **August 27, 2013
 
-**SIRE: Westerlea Nothin' But Blue Sky**
+**SIRE: **Westerlea Nothin' But Blue Sky
 
-**DAM: Kijabewinds Take them by Storm**
+**DAM: **Kijabewinds Take them by Storm
 
-**OWNERS: Sam Doherty, Rachel Thornton-Hughes & Sharon Janzen**
+**OWNERS: **Sam Doherty, Rachel Thornton-Hughes & Sharon Janzen
 
 **Accomplishments : **Canadian Championship, Rally Excellence, Canine Good Neighbor titles. Working on Obedience titles and Agility titles.
 
