@@ -1,7 +1,7 @@
 ---
-description: ''
-dateModified: '2016-07-09T15:58:33.573Z'
-datePublished: '2016-07-09T16:05:34.070Z'
+description: 'Date of Birth: June 19, 2014'
+dateModified: '2016-07-09T16:18:17.836Z'
+datePublished: '2016-07-09T16:29:55.178Z'
 title: CH KijabeWinds One Step at a Time CGN – AERO
 author: []
 isBasedOnUrl: >-
