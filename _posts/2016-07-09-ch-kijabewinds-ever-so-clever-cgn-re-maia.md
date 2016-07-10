@@ -1,7 +1,7 @@
 ---
 description: 'Date of BIRTH: August 27, 2013'
-dateModified: '2016-07-09T16:35:14.215Z'
-datePublished: '2016-07-09T16:35:20.763Z'
+dateModified: '2016-07-10T00:58:08.298Z'
+datePublished: '2016-07-10T00:58:39.538Z'
 title: CH KijabeWinds Ever So Clever CGN RE - MAIA
 author: []
 isBasedOnUrl: >-
@@ -30,8 +30,8 @@ _type: MediaObject
 
 ### **Health Clearances:**
 
-_**OFA -- HIP**_**: **Excellent **THYROID : **Normal **CARDIAC : **Normal **DE : **Normal/Clear **DM : **Normal **CP : **Clear/Normal **CPS :** Clear**JADD : **Probable Normal **BUFF : **Clear
+_**OFA -- HIP**_**: **Excellent **THYROID: **Normal **CARDIAC: **Normal **DE: **Normal/Clear **DM: **Normal **CP: **Clear/Normal **CPS:** Clear**JADD: **Probable Normal **BUFF: **Clear
 
-_**OPTIGEN -- PRA**_**: **Normal/Clear **CEA/CH :** Normal/Clear
+_**OPTIGEN -- PRA**_**: **Normal/Clear **CEA/CH:** Normal/Clear
 
 **Maia **lives with her family in Campbell River, 30 minutes away from me. A spoiled and happy girl, she participates in her agility classes with great drive and attitude and lovingly follows her master in her Rally Obedience work. Posing for her owners and their business "Dog Days Photography" her profile can be spotted on their facebook page and instagram maia the toller. In May 2016 we took her to visit a willing and handsome suitor and she is expecting her litter at the end of July 2016\. She will come back to live with me for the 9 weeks of getting ready and whelping her first litter.
