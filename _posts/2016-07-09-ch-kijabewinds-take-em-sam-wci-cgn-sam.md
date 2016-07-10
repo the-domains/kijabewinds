@@ -1,15 +1,15 @@
 ---
+author: []
+dateModified: '2016-07-10T00:33:53.084Z'
+datePublished: '2016-07-10T00:58:36.482Z'
 description: >-
   Date of Birth: March 24, 2010 Sire: Seastar’s Westerlea Terifox Dam:
   KijabeWinds Take them by Storm Owners: Rick and Judy Janzen, Sharon Janzen
-dateModified: '2016-07-09T16:44:33.637Z'
-datePublished: '2016-07-09T16:48:29.488Z'
-title: CH KijabeWinds Take-em Sam WCI CGN – SAM
-author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e10bba-40a7-463b-bdea-752460ebc2cd.jpg
-sourcePath: _posts/2016-07-09-ch-kijabewinds-take-em-sam-wci-cgn-sam.md
+title: CH KijabeWinds Take-em Sam WCI CGN – SAM
 starred: false
+sourcePath: _posts/2016-07-09-ch-kijabewinds-take-em-sam-wci-cgn-sam.md
 inFeed: true
 hasPage: false
 inNav: false
