@@ -2,8 +2,8 @@
 description: >-
   Date of Birth: July 13, 2007 Sire: Anando Off Center Toller Dam: Westerlea’s
   Alderlane April Owner: Sharon Janzen
-dateModified: '2016-07-09T16:45:35.103Z'
-datePublished: '2016-07-09T16:48:33.995Z'
+dateModified: '2016-07-10T00:56:36.362Z'
+datePublished: '2016-07-10T00:58:34.056Z'
 title: CH KijabeWinds Take them by Storm – STORM - Retired from breeding 2015
 author: []
 isBasedOnUrl: >-
@@ -32,7 +32,7 @@ Certified St. John Ambulance Therapy Dog,
 Successful recreational duck retriever,  
 Whelped four litters -- March 2010; May 2011; August 2013;July 2015
 
-### **Health Clearances: **
+### **Health Clearances:**
 
 **Hip**: OFA DTR-1288G25F-VPI **Thyroid**: Normal Normal **CERF: **NSD-1203/2009-26 **PRA: **Carrier **CEA:** Clear **CP1: Clear**
 
