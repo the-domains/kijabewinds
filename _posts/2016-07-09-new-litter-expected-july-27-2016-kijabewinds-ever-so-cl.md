@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-10T00:51:30.035Z'
-datePublished: '2016-07-10T00:54:45.422Z'
+dateModified: '2016-07-10T00:54:48.671Z'
+datePublished: '2016-07-10T00:58:50.641Z'
 description: >-
   April wasn’t the month she was born, that was March, it wasn’t the month she
   came to us, that was May, rather it was the name we chose for our first
@@ -10,8 +10,8 @@ description: >-
 title: Home
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e00be9d7-eedd-458d-aec5-e2b9bdf1ee5b.jpg
-starred: true
 sourcePath: _posts/2016-07-09-new-litter-expected-july-27-2016-kijabewinds-ever-so-cl.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
