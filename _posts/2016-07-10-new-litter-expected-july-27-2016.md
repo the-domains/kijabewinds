@@ -1,7 +1,7 @@
 ---
 description: 'NEW LITTER EXPECTED JULY 27, 2016'
-dateModified: '2016-07-10T00:54:36.395Z'
-datePublished: '2016-07-10T00:58:46.943Z'
+dateModified: '2016-07-10T01:00:08.615Z'
+datePublished: '2016-07-10T01:00:10.763Z'
 title: ''
 author: []
 isBasedOnUrl: >-
