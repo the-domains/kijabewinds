@@ -1,7 +1,7 @@
 ---
-description: 'Date of Birth : July 22, 2015'
-dateModified: '2016-07-09T16:13:01.194Z'
-datePublished: '2016-07-09T16:29:48.450Z'
+description: 'Date of Birth: July 22, 2015'
+dateModified: '2016-07-10T01:06:57.043Z'
+datePublished: '2016-07-11T02:53:31.630Z'
 title: CH KijabeWinds Playing the River – POKER
 author: []
 sourcePath: _posts/2016-07-09-ch-kijabewinds-playing-the-river-poker.md
@@ -14,12 +14,12 @@ _type: MediaObject
 ---
 # **CH KijabeWinds Playing the River -- POKER**
 
-**Date of Birth :** July 22, 2015
+**Date of Birth:** July 22, 2015
 
-**Sire : **Redfox Sirius Rogan
+**Sire: **Redfox Sirius Rogan
 
-**Dam : **Kijabewinds Take them by Storm
+**Dam: **Kijabewinds Take them by Storm
 
-**Owners : **Aaron Andriash, Amanda Williams & Sharon Janzen
+**Owners: **Aaron Andriash, Amanda Williams & Sharon Janzen
 
 **Poker **is living and riding with Aaron and Amanda as they travel the show circuit. We are waiting for him to "grow up" and will launch him into the ring himself. He is a sturdy and proportionate boy needing a little bit of time to show his adult self. We are looking forward to seeing what this boy will become.
