@@ -1,17 +1,17 @@
 ---
 author: []
-dateModified: '2016-07-10T01:01:47.663Z'
-datePublished: '2016-07-10T01:01:48.330Z'
+dateModified: '2016-07-11T02:51:15.493Z'
+datePublished: '2016-07-11T02:51:20.388Z'
 description: >-
   April wasn’t the month she was born, that was March, it wasn’t the month she
   came to us, that was May, rather it was the name we chose for our first
   Toller. Thus KijabeWinds Kennel was established in 2000 with Westerlea’s
   Alderlane April (2000-2014)
-title: Home
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e00be9d7-eedd-458d-aec5-e2b9bdf1ee5b.jpg
-sourcePath: _posts/2016-07-09-new-litter-expected-july-27-2016-kijabewinds-ever-so-cl.md
+title: Home
 starred: true
+sourcePath: _posts/2016-07-09-new-litter-expected-july-27-2016-kijabewinds-ever-so-cl.md
 inFeed: true
 hasPage: false
 inNav: false
