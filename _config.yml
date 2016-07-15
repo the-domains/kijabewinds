@@ -1,21 +1,4 @@
-name: kijabewinds
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c49b383-35d5-430d-8bda-d576f015c28a.png
-layout_spectrum: 0.5116220228374004
 typography_spectrum: 0.5221509071998298
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#433425'
@@ -27,4 +10,23 @@ color:
   lightness: 0.4375
   saturation: 0.3125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5116220228374004
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eebac652-0b30-4b46-aaca-951f2711d82e.png
+name: kijabewinds
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c49b383-35d5-430d-8bda-d576f015c28a.png
 purpose: []
