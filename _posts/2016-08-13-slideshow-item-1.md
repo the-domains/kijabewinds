@@ -1,13 +1,13 @@
 ---
-description: Slideshow item 1
-dateModified: '2016-08-13T02:03:22.924Z'
-datePublished: '2016-08-13T02:03:28.696Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-13T02:06:16.944Z'
 sourcePath: _posts/2016-08-13-slideshow-item-1.md
+author: []
+via: {}
+dateModified: '2016-08-13T02:06:16.250Z'
+title: ''
+publisher: {}
+description: Slideshow item 1
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
